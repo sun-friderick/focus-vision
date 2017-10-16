@@ -11,4 +11,8 @@ A full media-stack sdk, include:
 >       c-ABC(Adaptive Bit-rate Control),
 >       d-RTCP-FRI(Full intra-frame request),
 >         RTCP-PLI(Picture Loss Indictor)) 
+###### 6-Record
 ...
+
+# CONTROL
+If the capture from camera, may use pelco-D/P or VISCA protocol to control the camera platform.
